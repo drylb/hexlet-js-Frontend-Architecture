@@ -1,0 +1,30 @@
+{
+  "name": "hexlet-js-frontend-architecture",
+  "version": "1.0.0",
+  "description": "Frontend-Architecture practice",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "jest": {
+    "transform": {},
+    "testEnvironment": "jsdom"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drylb/hexlet-js-Frontend-Architecture.git"
+  },
+  "author": "Vlad Sergy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drylb/hexlet-js-Frontend-Architecture/issues"
+  },
+  "homepage": "https://github.com/drylb/hexlet-js-Frontend-Architecture#readme",
+  "devDependencies": {
+    "eslint": "^7.20.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "jest": "^26.6.3"
+  }
+}
