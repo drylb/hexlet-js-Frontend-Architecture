@@ -33,6 +33,10 @@
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/user-event": "^12.7.1",
     "@types/jest": "^26.0.20",
-    "eslint-plugin-jest": "^24.1.5"
+    "axios": "^0.21.1",
+    "core-js": "^3.9.0",
+    "eslint-plugin-jest": "^24.1.5",
+    "nock": "^13.0.7",
+    "regenerator-runtime": "^0.13.7"
   }
 }
