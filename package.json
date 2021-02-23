@@ -37,6 +37,7 @@
     "core-js": "^3.9.0",
     "eslint-plugin-jest": "^24.1.5",
     "nock": "^13.0.7",
+    "prettier": "^2.2.1",
     "regenerator-runtime": "^0.13.7"
   }
 }
