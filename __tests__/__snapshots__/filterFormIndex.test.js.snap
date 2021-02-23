@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`initial state 1`] = `
+"<ul>
+    <li>v1</li>
+    <li>d3</li>
+    <li>d2</li>
+</ul>
+"
+`;
+
+exports[`working process 1`] = `
+"<ul>
+    <li>v1</li>
+    <li>d3</li>
+    <li>d2</li>
+</ul>
+"
+`;
+
+exports[`working process 2`] = `
+"<ul>
+    <li>d3</li>
+</ul>
+"
+`;
+
+exports[`working process 3`] = `
+"<ul>
+    <li>v1</li>
+    <li>d3</li>
+    <li>d2</li>
+</ul>
+"
+`;
+
+exports[`working process 4`] = `""`;
+
+exports[`working process 5`] = `
+"<ul>
+    <li>v1</li>
+    <li>d3</li>
+    <li>d2</li>
+</ul>
+"
+`;
+
+exports[`working process 6`] = `
+"<ul>
+    <li>v1</li>
+</ul>
+"
+`;
