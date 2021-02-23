@@ -123,7 +123,7 @@ export default () => {
     { name: 'frequency_gte', eventType: 'input' },
     { name: 'frequency_lte', eventType: 'input' },
   ];
-  items.forEach(({ name, eventType}) => {
+  items.forEach(({ name, eventType }) => {
     const element = document.querySelector(`[name="${name}"]`);
     element.addEventListener(eventType, ({ target }) => {
       state.filter[target.name] = target.value === '' ? null : target.value;
