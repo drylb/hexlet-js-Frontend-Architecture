@@ -40,6 +40,7 @@
     "nock": "^13.0.7",
     "on-change": "^2.2.3",
     "prettier": "^2.2.1",
-    "regenerator-runtime": "^0.13.7"
+    "regenerator-runtime": "^0.13.7",
+    "yup": "^0.32.9"
   }
 }
